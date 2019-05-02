@@ -1,3 +1,9 @@
+#  Created by od3ng on 02/05/2019 12:40:17 PM.
+#  Project: tf-object-detection
+#  File: cv_object_detection.py
+#  Email: lepengdados@gmail.com
+#  Telegram: @nopriant0
+
 import cv2 as cv
 import os
 
